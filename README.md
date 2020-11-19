@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Suho Lee!
-****************
+## Hi there 👋 I'm Suho Lee!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 From South Korea<br/>
 Student at GyeongSang National University<br/>
@@ -14,24 +13,20 @@ Computer Science 3rd grade<br/>
 <!-- #### 💻 Languages & Tools:
 -->
 
-#### ⭐ Interested in
-****************
+## ⭐ Interested in
 - Java & Android
 - Web
 - Artificial Inteligence
 - Data Science
 
-#### ✏ Current -ing
-****************
+## ✏ Current -ing
 - Data Structure & Algorithm Study
 - Project - Anima WEB & APP
 - Project - Memorythm Android APP
 
-#### 📧 Reach me!
-****************
+## 📧 Reach me!
 - Email : suho2718@gmail.com
 - Github : https://www.github.com/leesh96/
-- Blog : 
 - Instagram : https://www.instagram.com/dev_suho/
 
 <!--
