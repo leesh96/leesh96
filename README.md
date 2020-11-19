@@ -16,7 +16,7 @@ Computer Science 3rd grade<br/>
 ## ⭐ Interested in
 - Java & Android
 - Web
-- Artificial Inteligence
+- Artificial Intelligence
 - Data Science
 
 ## ✏ Current -ing
