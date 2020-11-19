@@ -6,9 +6,7 @@ Computer Science 3rd grade<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leesh96&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leesh96)](https://github.com/anuraghazra/github-readme-stats)<br/>
--->
 
 ## 💻 Languages & Tools:
 ![JAVA](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&color=blue)
