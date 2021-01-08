@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=LeeSuho&fontSize=80&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=70CBF4&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
 
 <h3 align="center">👋 Hi there 👋</h3>
 <p align="center">
   <b>I'm Lee Suho</b></br>
   Student at GyeongSang National University Computer Science</br>
-  to become a developer</br>
+  Want to become a excellent developer</br>
 </p>
 
 <h4 align="center">💻 Tech Stack 💻</h4>
@@ -35,17 +35,18 @@
   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   -->
   <a href="https://www.instagram.com/dev_suho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_suho"/></a>
-  <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a>
+  <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a></br>
+  <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
 
 <h4 align="center">📊 Github Stats 📊</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=buefy&show_icons=true"/></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&layout=compact"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leesh96"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leesh96&theme=vue&layout=compact&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=vue&layout=compact&hide_border=true"/><br/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=70CBF4&height=150&section=footer"/>
 
 <!--
 **leesh96/leesh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
