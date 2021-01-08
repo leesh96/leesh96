@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70CBF4&height=120&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=120&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
 
 <h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=vue&layout=compact&hide_border=true"/><br/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70CBF4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=120&section=footer"/>
 
 <!--
 **leesh96/leesh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
