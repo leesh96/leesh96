@@ -43,7 +43,7 @@
 
 <h3 align="center">📊 Github Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&"/><br/>
   <!--
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leesh96&theme=vue&layout=compact&hide_border=true"/><br/>
   -->
