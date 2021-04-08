@@ -13,6 +13,7 @@
   <b>I'm skilled at</b></br>
   -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
@@ -31,7 +32,7 @@
 </p>
 
 <h3 align="center">⭐ Interested in ⭐</h3>
-<p align="center"><b>Android</b>, Java, Web, AI</p>
+<p align="center"><b>Android</b>, Kotlin, Java
 
 <h3 align="center">📧 Reach me! 📧</h3>
 <p align="center">
