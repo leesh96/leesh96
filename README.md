@@ -46,10 +46,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=prussian&show_icons=true&hide_border=true&count_priavate=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=prussian&layout=compact&hide_border=true"/><br/>
+  <a href="https://solved.ac/suho2718">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suho2718"/>
+  </a>
 </p>
-
-<center>
-  [![solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=suho2718)](https://solved.ac/suho2718)
-</center>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=footer"/>
