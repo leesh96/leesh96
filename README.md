@@ -1,4 +1,4 @@
-![]("https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking")
+<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
 
 <h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
