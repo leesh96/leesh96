@@ -1,11 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
+![]("https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking")
 
 <h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
   <b>I'm Lee Suho</b></br>
   Student at GyeongSang National University Computer Science</br>
-  Want to become a excellent developer</br>
+  🌱 Growing Android developer<br/>
 </p>
+
+<h3 align="center">⭐ Interested in ⭐</h3>
+<p align="center"><b>Android</b>, Kotlin, Java
 
 <h3 align="center">💻 Technical Stack 💻</h3>
 <p align="center">
@@ -31,9 +34,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
 
-<h3 align="center">⭐ Interested in ⭐</h3>
-<p align="center"><b>Android</b>, Kotlin, Java
-
 <h3 align="center">📧 Reach me! 📧</h3>
 <p align="center">
   <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
@@ -42,28 +42,14 @@
   <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
 
-<h3 align="center">📊 Github Stats 📊</h3>
+<h3 align="center">📊 Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&"/><br/>
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leesh96&theme=vue&layout=compact&hide_border=true"/><br/>
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=blueberry&layout=compact&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=prussian&show_icons=true&hide_border=true&count_priavate=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=prussian&layout=compact&hide_border=true"/><br/>
 </p>
 
+<center>
+  [![solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=suho2718)](https://solved.ac/suho2718)
+</center>
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=footer"/>
-
-<!--
-**leesh96/leesh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
