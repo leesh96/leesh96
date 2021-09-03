@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=LeeSuho&fontColor=black&fontSize=40&fontAlignY=50&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=Lee Suho&fontColor=black&fontSize=40&fontAlignY=50"/>
 
 <h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
@@ -34,8 +34,8 @@
   <!--
   <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   -->
-  <a href="https://www.instagram.com/dev_suho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_suho"/></a>
-  <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a></br>
+  <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a>
+  <a href="https://www.instagram.com/dev_suho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_suho"/></a></br>
   <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
 
