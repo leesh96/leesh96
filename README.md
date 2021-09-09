@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=header&text=Lee Suho&fontColor=black&fontSize=40&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee Suho&fontColor=black&fontSize=50"/>
 
-<h2 align="center">👋 Hi there 👋</h2>
+<h1 align="center">👋 Hi there 👋</h1>
+<h3 align="center"> I'm Lee Suho </h3></br>
 <p align="center">
-  <b>I'm Lee Suho</b></br>
-  Student at GyeongSang National University Computer Science</br>
-  🌱 Growing Android developer<br/>
+  Live in South Korea</br></br>
+  Studying at GyeongSang National University Computer Science</br></br>
+  🌱 Growing Android developer</br></br>
 </p>
 
-<h3 align="center">⭐ Interested in ⭐</h3>
+<h2 align="center">⭐ Interested & Pride in ⭐</h2>
 <p align="center"><b>Android</b>, Kotlin, Java
 
 <h3 align="center">💻 Technical Stack 💻</h3>
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
 
-<h3 align="center">📧 Reach me! 📧</h3>
+<h2 align="center">📧 Reach me! 📧</h2>
 <p align="center">
   <!--
   <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
@@ -39,13 +40,28 @@
   <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
 
+<h2 align="center">🗂 Projects 🗂</h2>
+<a href="https://github.com/Dynamic-LAB/sinsungo_android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
+</a>
+<a href="https://github.com/Yg323/app_anima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
+</a></br>
+<a href="https://github.com/leesh96/Memorythm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
+</a>
+<a href="https://github.com/leesh96/Petlog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Petlog&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
+</a>
+
+
 <h3 align="center">📊 Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=prussian&show_icons=true&hide_border=true&count_private=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=prussian&layout=compact&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&border_radius=10&line_height=25&include_all_commits=true"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=blueberry&layout=compact&hide_border=true&border_radius=10&langs_count=9"/>
   <a href="https://solved.ac/suho2718">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suho2718"/>
+    <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=suho2718"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=93A9D1&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200"/>
