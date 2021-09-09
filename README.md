@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee Suho&fontColor=black&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee Suho&fontColor=black&fontSize=50&fontAlignY=30"/>
 
 <h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
