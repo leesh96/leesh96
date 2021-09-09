@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee Suho&fontColor=black&fontSize=50"/>
 
-<h1 align="center">👋 Hi there 👋</h1>
-<h3 align="center"> I'm Lee Suho </h3></br>
+<h2 align="center">👋 Hi there 👋</h2>
 <p align="center">
+  <b>I'm Lee Suho!</b></br></br>
   Live in South Korea</br></br>
   Studying at GyeongSang National University Computer Science</br></br>
   🌱 Growing Android developer</br></br>
 </p>
 
-<h2 align="center">⭐ Interested & Pride in ⭐</h2>
+<h3 align="center">⭐ Interested & Pride in ⭐</h3>
 <p align="center"><b>Android</b>, Kotlin, Java
 
 <h3 align="center">💻 Technical Stack 💻</h3>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
 
-<h2 align="center">📧 Reach me! 📧</h2>
+<h3 align="center">📧 Reach me! 📧</h3>
 <p align="center">
   <!--
   <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
@@ -40,7 +40,7 @@
   <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
 
-<h2 align="center">🗂 Projects 🗂</h2>
+<h3 align="center">🗂 Projects 🗂</h3>
 <a href="https://github.com/Dynamic-LAB/sinsungo_android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
 </a>
