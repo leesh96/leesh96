@@ -58,10 +58,12 @@
 <h3 align="center">📊 Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&border_radius=10&line_height=25&include_all_commits=true"/></br>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=blueberry&layout=compact&hide_border=true&border_radius=10"/>
   <a href="https://solved.ac/suho2718">
     <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=suho2718"/>
   </a>
+  -->
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200"/>
