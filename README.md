@@ -45,14 +45,12 @@
 <a href="https://github.com/PeopleAndService/BBasPassenger-Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
 </a>
-</p>
-<p align="center">
 <a href="https://github.com/Dynamic-LAB/sinsungo_android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
 </a>
 <a href="https://github.com/Yg323/app_anima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a></br>
+</a>
 <a href="https://github.com/leesh96/Memorythm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
 </a>
