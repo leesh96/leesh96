@@ -8,6 +8,10 @@
   🌱 Growing Android developer</br></br>
 </p>
 
+<p align="center">
+<a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
+</p>
+
 <h3 align="center">⭐ Interested & Pride in ⭐</h3>
 <p align="center"><b>Android</b>, Kotlin, Java
 
@@ -30,15 +34,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
 
+<!--
 <h3 align="center">📧 Reach me! 📧</h3>
 <p align="center">
-  <!--
   <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  -->
   <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a>
   <a href="https://www.instagram.com/dev_suho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_suho"/></a></br>
   <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
 </p>
+-->
 
 <h3 align="center">🗂 Projects 🗂</h3>
 <p align="center">
