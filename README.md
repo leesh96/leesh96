@@ -1,77 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee Suho&fontColor=black&fontSize=50&fontAlignY=30"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee%20Suho&fontColor=black&fontSize=50&fontAlignY=30)
 
-<h2 align="center">👋 Hi there 👋</h2>
-<p align="center">
-  <b>I'm Lee Suho!</b></br></br>
-  Live in South Korea</br></br>
-  Studying at GyeongSang National University Computer Science</br></br>
-  🌱 Growing Android developer</br></br>
-</p>
+### 👋 Welcome!
+Hi! I'm Suho Lee
+- 🎓 Student at GyeongSang National Univ.
+- 📚 Major in Computer Science
+- 🌱 Growing Android Developer
+- 👨🏻‍💻 Familiar with Android, Kotlin, Java
+- 🤔 Currently studying Android MVVM, Coroutine, SpringBoot
 
-<p align="center">
-<a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
-</p>
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://github.com/leesh96)
 
-<h3 align="center">⭐ Interested & Pride in ⭐</h3>
-<p align="center"><b>Android</b>, Kotlin, Java
+### 📬 Contacts
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=suho2718@gmail.com)](lksy1294@gmail.com)
 
-<h3 align="center">💻 Technical Stack 💻</h3>
-<p align="center">
-  <!--
-  <b>I'm skilled at</b></br>
-  -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-</p>
-<p align="center">
-  <!--
-  <b>I've used at least once</b></br>
-  -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-</p>
+### 💻 Tech Stack
+**Language :**
 
-<!--
-<h3 align="center">📧 Reach me! 📧</h3>
-<p align="center">
-  <a href="https://velog.io/@dev_suho"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="suho2718@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=suho2718@gmail.com"/></a>
-  <a href="https://www.instagram.com/dev_suho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_suho"/></a></br>
-  <a href="https://github.com/leesh96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false"/></a>
-</p>
--->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<h3 align="center">🗂 Projects 🗂</h3>
-<p align="center">
-<a href="https://github.com/PeopleAndService/BBasPassenger-Android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a>
-<a href="https://github.com/Dynamic-LAB/sinsungo_android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a>
-<a href="https://github.com/Yg323/app_anima">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a>
-<a href="https://github.com/leesh96/Memorythm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a>
-<a href="https://github.com/leesh96/Petlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Petlog&hide_border=true&border_radius=10&theme=blueberry&show_owner=false" />
-</a>
-</p>
+**Android :**
+<!-- 안드로이드, 제트팩, 레트로핏, 글라이드, mlkit, 파이어베이스, 구글클라우드 -->
 
-<h3 align="center">📊 Stats 📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&border_radius=10&line_height=25&include_all_commits=true"/></br>
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh96&theme=blueberry&layout=compact&hide_border=true&border_radius=10"/>
-  -->
-  <a href="https://solved.ac/suho2718">
-    <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=suho2718"/>
-  </a>
-</p>
+**Database :**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200"/>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Etc :**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🗂 Projects
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/PeopleAndService/BBasPassenger-Android)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/Dynamic-LAB/sinsungo_android)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/Yg323/app_anima)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/leesh96/Memorythm)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Petlog&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/leesh96/Petlog)
+
+### 📊 Stats
+[![](https://github-readme-stats.vercel.app/api/?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&border_radius=10&include_all_commits=true)](https://github.com/leesh96?tab=repositories)
+
+[![](https://github-profile-trophy.vercel.app/?username=leesh96&theme=chalk&title=Commits,Issues,PullRequest,Repositories&margin-w=10&no-frame=true)](https://github.com/leesh96?tab=repositories)
+
+[![](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=suho2718)](https://solved.ac/profile/suho2718)
+
+<--와카타임, -->
+
+![](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200)
