@@ -13,6 +13,7 @@ Hi! I'm Suho Lee
 ### 📬 Contacts
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=suho2718@gmail.com)](lksy1294@gmail.com)
 
+<!--
 ### 💻 Tech Stack
 **Language :**
 
@@ -23,7 +24,13 @@ Hi! I'm Suho Lee
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Android :**
-<!-- 안드로이드, 제트팩, 레트로핏, 글라이드, mlkit, 파이어베이스, 구글클라우드 -->
+
+![](https://img.shields.io/badge/Android%20Jetpack-4380F0?style=for-the-badge)
+![](https://img.shields.io/badge/MVVM-4380F0?style=for-the-badge)
+![](https://img.shields.io/badge/Retrofit-007396?style=for-the-badge)
+![](https://img.shields.io/badge/Glide-007396?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Database :**
 
@@ -46,6 +53,8 @@ Hi! I'm Suho Lee
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+-->
 
 ### 🗂 Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/PeopleAndService/BBasPassenger-Android)
