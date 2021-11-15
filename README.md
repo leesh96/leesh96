@@ -69,8 +69,6 @@ Hi! I'm Suho Lee
 
 [![](https://github-profile-trophy.vercel.app/?username=leesh96&theme=chalk&title=Commits,Issues,PullRequest,Repositories&margin-w=10&no-frame=true)](https://github.com/leesh96?tab=repositories)
 
-[![](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=suho2718)](https://solved.ac/profile/suho2718)
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -98,5 +96,7 @@ Markdown                 4 mins              ░░░░░░░░░░░�
 
  Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
+
+[![](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=suho2718)](https://solved.ac/profile/suho2718)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200)
