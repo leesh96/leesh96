@@ -13,8 +13,9 @@ Hi! I'm Suho Lee
 ### 📬 Contacts
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=suho2718@gmail.com)](mailto:lksy1294@gmail.com)
 
-<!--
 ### 💻 Tech Stack
+![](/img/techstack.png)
+<!--
 **Language :**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
