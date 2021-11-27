@@ -5,7 +5,7 @@ Hi! I'm Suho Lee
 - 🎓 Student at GyeongSang National Univ.
 - 📚 Major in Computer Science
 - 🌱 Growing Android Developer
-- 👨🏻‍💻 Familiar with Android, Kotlin, Java
+- 👨🏻‍💻 **Familiar with Android, Kotlin, Java**
 - 🤔 Currently studying Android Google App Architecture, Coroutine, SpringBoot, Spring Data JPA
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://github.com/leesh96)
