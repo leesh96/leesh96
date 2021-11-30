@@ -13,15 +13,15 @@ Hi! I'm Suho Lee
 ### 📬 Contacts
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=suho2718@gmail.com)](mailto:lksy1294@gmail.com)
 
-### 💻 Tech Stack
-![](/img/techstack.png)
-
 ### 🗂 Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/PeopleAndService/BBasPassenger-Android)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/Dynamic-LAB/sinsungo_android)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/Yg323/app_anima)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/leesh96/Memorythm)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Petlog&hide_border=true&border_radius=10&theme=blueberry&show_owner=false)](https://github.com/leesh96/Petlog)
+
+### 💻 Tech Stack
+![](/img/techstack.png)
 
 ### 📊 Stats
 [![](https://github-readme-stats.vercel.app/api/?username=leesh96&theme=blueberry&show_icons=true&hide_border=true&count_private=true&border_radius=10&include_all_commits=true)](https://github.com/leesh96?tab=repositories)
