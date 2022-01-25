@@ -11,7 +11,7 @@ Hi! I'm Suho Lee
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://github.com/leesh96)
 
 ### 📬 Contacts
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=suho2718@gmail.com)](mailto:lksy1294@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lksy1294@gmail.com)
 
 ### 🗂 Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/Dynamic-LAB/sinsungo_android)
