@@ -1,28 +1,31 @@
+<!--
 ![](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=header&height=200&text=Lee%20Suho&fontColor=black&fontSize=50&fontAlignY=30)
+-->
 
-### 👋 Welcome!
-**Hi! I'm Suho Lee**
-- 📱 Android Developer
-- 👨🏻‍💻 **Familiar with Android, Kotlin, Java**
-- 🤔 Currently studying Android App Architecture(multi module, clean architecture), Kotlin Coroutines and Flow
-
+### 👋 안녕하세요! 이수호입니다.
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh96&count_bg=%238BD951&title_bg=%236E6E6E&icon=github.svg&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://github.com/leesh96)
 
+<!--
 ### 📬 Contacts
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:suho2718@gmail.com)
+-->
 
-### 🗂 Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=AlBang-Android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/PeopleAndService/AlBang-Android)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/PeopleAndService/BBasPassenger-Android)
+### 🗂 대표 프로젝트
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Dynamic-LAB&repo=sinsungo_android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/Dynamic-LAB/sinsungo_android)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=BBasPassenger-Android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/PeopleAndService/BBasPassenger-Android)
+
+### 프로젝트
+[![](https://github-readme-stats.vercel.app/api/pin/?username=PeopleAndService&repo=AlBang-Android&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/PeopleAndService/AlBang-Android)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Memorythm&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/leesh96/Memorythm)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Yg323&repo=app_anima&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/Yg323/app_anima)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leesh96&repo=Petlog&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&show_owner=false)](https://github.com/leesh96/Petlog)
 
+### Study Archive
+- [코틀린 공식 문서 번역, 공부](https://leesh96.notion.site/Kotlin-Docs-7747d14a55924883b3de7cdd0522a34d)
+
 <!--
 ### 💻 Tech Stack
 ![](/img/techstack.png)
--->
 
 ### 📊 Stats
 [![](https://github-readme-stats.vercel.app/api/?username=leesh96&show_icons=true&count_private=true&bg_color=ffffff00&title_color=5094F0&text_color=7395DF&icon_color=5094F0&border_color=E1E4E8&border_radius=10&include_all_commits=true)](https://github.com/leesh96?tab=repositories)
@@ -30,40 +33,8 @@
 [![](https://github-profile-trophy.vercel.app/?username=leesh96&theme=onedark&title=Commits,Issues,PullRequest,Repositories&margin-w=10&no-bg=true)](https://github.com/leesh96?tab=repositories)
 -->
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-🌆 Daytime    272 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
-🌃 Evening    420 commits    █████████████░░░░░░░░░░░░   51.72% 
-🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   12 hrs 3 mins       ██████████████████████░░░   87.57% 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
-XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
-GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
-
-🐱‍💻 Projects: 
-CodingTest-Kotlin        5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.02% 
-withkotlin               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   26.29% 
-Algorithm-PS-Kotlin      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
-freshgo                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-FreshGo-Android          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
-
-```
-
-
-<!--END_SECTION:waka-->
-
+<!--
 [![](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=suho2718)](https://solved.ac/profile/suho2718)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&section=footer&height=200)
+-->
